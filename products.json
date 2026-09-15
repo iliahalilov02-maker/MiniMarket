@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Помидоры черри",
+    "category": "Овощи и фрукты",
+    "categorySlug": "fruits",
+    "emoji": "🍅",
+    "price": 89,
+    "oldPrice": 112,
+    "badge": "-20%"
+  },
+  {
+    "id": 2,
+    "name": "Яблоки Гала",
+    "category": "Овощи и фрукты",
+    "categorySlug": "fruits",
+    "emoji": "🍎",
+    "price": 99,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 3,
+    "name": "Бананы",
+    "category": "Овощи и фрукты",
+    "categorySlug": "fruits",
+    "emoji": "🍌",
+    "price": 79,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 4,
+    "name": "Куриное филе",
+    "category": "Мясо и птица",
+    "categorySlug": "meat",
+    "emoji": "🍗",
+    "price": 289,
+    "oldPrice": null,
+    "badge": "Хит"
+  },
+  {
+    "id": 5,
+    "name": "Свинина шейка",
+    "category": "Мясо и птица",
+    "categorySlug": "meat",
+    "emoji": "🥓",
+    "price": 349,
+    "oldPrice": 399,
+    "badge": "-13%"
+  },
+  {
+    "id": 6,
+    "name": "Молоко 3,2%",
+    "category": "Молочные продукты",
+    "categorySlug": "dairy",
+    "emoji": "🥛",
+    "price": 64,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 7,
+    "name": "Сливочное масло",
+    "category": "Молочные продукты",
+    "categorySlug": "dairy",
+    "emoji": "🧈",
+    "price": 129,
+    "oldPrice": 152,
+    "badge": "-15%"
+  },
+  {
+    "id": 8,
+    "name": "Сыр Российский",
+    "category": "Молочные продукты",
+    "categorySlug": "dairy",
+    "emoji": "🧀",
+    "price": 189,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 9,
+    "name": "Яйца С1, 10 шт",
+    "category": "Молочные продукты",
+    "categorySlug": "dairy",
+    "emoji": "🥚",
+    "price": 84,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 10,
+    "name": "Хлеб белый",
+    "category": "Хлеб и выпечка",
+    "categorySlug": "bakery",
+    "emoji": "🍞",
+    "price": 38,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 11,
+    "name": "Багет французский",
+    "category": "Хлеб и выпечка",
+    "categorySlug": "bakery",
+    "emoji": "🥖",
+    "price": 49,
+    "oldPrice": null,
+    "badge": "Новинка"
+  },
+  {
+    "id": 12,
+    "name": "Горбуша замороженная",
+    "category": "Рыба и морепродукты",
+    "categorySlug": "fish",
+    "emoji": "🐟",
+    "price": 259,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 13,
+    "name": "Креветки",
+    "category": "Рыба и морепродукты",
+    "categorySlug": "fish",
+    "emoji": "🦐",
+    "price": 399,
+    "oldPrice": 449,
+    "badge": "-11%"
+  },
+  {
+    "id": 14,
+    "name": "Сок апельсиновый",
+    "category": "Напитки",
+    "categorySlug": "drinks",
+    "emoji": "🥤",
+    "price": 119,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 15,
+    "name": "Минеральная вода",
+    "category": "Напитки",
+    "categorySlug": "drinks",
+    "emoji": "💧",
+    "price": 45,
+    "oldPrice": null,
+    "badge": null
+  },
+  {
+    "id": 16,
+    "name": "Пельмени домашние",
+    "category": "Замороженные продукты",
+    "categorySlug": "frozen",
+    "emoji": "🥟",
+    "price": 199,
+    "oldPrice": null,
+    "badge": "Хит"
+  }
+]
